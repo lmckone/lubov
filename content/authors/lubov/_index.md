@@ -3,7 +3,6 @@
 title: Lubov McKone
 authors:
 - lubov
-bio: I'm an info tech professional with 3+ years of experience in public sector data analysis, data documentation, data systems user support, and project management.
 
 education:
   courses:
