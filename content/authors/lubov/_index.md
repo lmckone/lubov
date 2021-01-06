@@ -11,7 +11,10 @@ education:
     year: 2018
 email: ""
 interests:
-  - R
+  - Data cleaning and reshaping
+  - Data analysis and visualization
+  - Participatory research
+  - Digital product documentation
 
 name: Lubov McKone
 organizations:
