@@ -9,17 +9,21 @@ education:
   - course: BA in Mathematics & Statistics
     institution: Boston University
     year: 2018
+  - course: MS in Library and Information Science
+    institution: Pratt Institute
+    year: 2023
 email: ""
 interests:
-  - Data cleaning and reshaping
-  - Data analysis and visualization
-  - Participatory research
-  - Digital product documentation
+  - Research data management
+  - Digital preservation
+  - Metadata design
+  - Digital humanities
+  - Data cleaning and visualization
 
 name: Lubov McKone
 organizations:
-- name: City of Boston
-role: Data Product Analyst
+- name: Pratt Institute
+role: MLIS Candidate
 social:
 - icon: twitter
   icon_pack: fab
@@ -33,4 +37,4 @@ social:
 superuser: true
 ---
 
-I'm a data professional with 3+ years of experience in public sector data analysis, data documentation, data systems user support, and project management. I love building tools, processes, and relationships that increase the usability and accessibility of data.
+I'm an aspiring academic librarian currently pursuing my MLIS at Pratt Institute.  My prior career as a data analyst in local government grounds my critical approach to data management and use, which challenges the power dynamic between the researcher and the researched in processes of data collection, manipulation, and preservation. I aim to support a public of empowered data explorers, creators, and destroyers, and bust the myth that data is an objective source of truth.
