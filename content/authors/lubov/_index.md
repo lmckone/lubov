@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lubov McKone
+title: lubov mckone
 authors:
 - lubov
 
@@ -20,10 +20,10 @@ interests:
   - Digital humanities
   - Data cleaning and visualization
 
-name: Lubov McKone
+name: lubov mckone
 organizations:
-- name: Pratt Institute
-role: MLIS Candidate
+- name: pratt institute
+role: mlis candidate
 social:
 - icon: twitter
   icon_pack: fab
