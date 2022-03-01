@@ -12,7 +12,11 @@ date: "2021-04-12T15:15:00Z"
 date_end: "2021-04-12T16:15:00Z"
 all_day: false
 publishdate: "2022-02-28"
-
+links:
+- name: Recording
+  url: https://nhsdc.org/conference_season/2021-spring-conference/
+- name: Slides
+  url: https://nhsdc.org/wp-content/uploads/2021/04/412_4-NHSDC-Spring-2021-Presentation-Lubov-McKone-Ian-Gendreau-1.pptx
 categories:
   - Data viz
 tags:
@@ -25,8 +29,6 @@ image:
   preview_only: no
 projects: []
 ---
-
-![](talk)
 
 A presentation I prepared for the Spring 2021 National Human Services Data Consortium, detailing how the City of Boston's Supportive Housing Division identified and corrected inequities in its housing matching algorithm.
 
