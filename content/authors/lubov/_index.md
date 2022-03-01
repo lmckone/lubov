@@ -6,7 +6,7 @@ authors:
 
 education:
   courses:
-  - course: BA in Mathematics & Statistics
+  - course: BA in Mathematics & Statistics, Minor in Computer Science
     institution: Boston University
     year: 2018
   - course: MS in Library and Information Science
