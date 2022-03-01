@@ -1,19 +1,27 @@
 ---
+title: "TidyTuesday"
+summary: An archive of my TidyTuesday visualizations
+tags:
+- Data Viz
+- R
 date: "2020-12-15"
+
 external_link: ""
+
 image:
-  caption: American Ninja Warrior Obstacle Names
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
+  preview_only: true
+
 links:
 - icon: github
   icon_pack: fab
   name: Github
   url: https://github.com/lmckone/TidyTuesday
-summary: 
-tags:
-- Data Viz
-- R
-title: TidyTuesday
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 An archive of my #TidyTuesday visualizations and code. #TidyTuesday is a weekly data challenge founded in 2018 by Thomas Mock and organized by the R4DS ("R for Data Science") online learning community. Each week, a new dataset is provided at [TidyTuesday](https://github.com/rfordatascience/tidytuesday) for members of the community to practice cleaning, reshaping, and visualizing via the tidyverse collection of R packages.
