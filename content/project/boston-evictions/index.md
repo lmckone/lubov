@@ -1,12 +1,19 @@
 ---
 date: "2018-05-01"
 external_link: ""
+
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: true
+  
+  
 links:
 - icon: github
   icon_pack: fab
   name: Github
   url: https://github.com/lmckone/boston-evictions-app
-summary: 
+summary: An RShiny app visualizing Boston eviction data.
 tags:
 - Data Viz
 - R

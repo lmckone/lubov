@@ -1,12 +1,19 @@
 ---
 date: "2019-01-01"
 external_link: ""
+
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: true
+  
+  
 links:
 - icon: github
   icon_pack: fab
   name: Github
   url: https://github.com/boston-dnd/system-performance-dashboard
-summary: 
+summary: A web application that visualizes HMIS performance metrics.
 tags:
 - Python
 - Data Viz
@@ -19,7 +26,7 @@ title: Boston CoC System Exploration App
 
 This repo houses a web application that displays core metrics about the Boston Homelessness Continuum of Care that can be filtered across a variety of demographics and subpopulations.
 
-The goal of this web app is to allow and empower the Supportive Housing Divison to explore and ask questions of the HMIS data. The app provides answers to broad system performance questions like "is the average length of stay decreasing?" but also allows users to dig deeper and uncover insights from the data, like "White veterans are older and have shorter lengths of stay than veterans of color" (no clue if that's true - just an example). The baseline measures displayed in the app are an adaption/expansion of HUD's [System Performance Measures](https://www.hudexchange.info/programs/coc/system-performance-measures/#guidance). The Supportive Housing Division collaborated to workshop and tailor these measures to be more relevant to the goals of our CoC.
+The goal of this web app is to allow and empower the Supportive Housing Division to explore and ask questions of its HMIS data. The app provides answers to broad system performance questions like "is the average length of stay decreasing?" but also allows users to dig deeper and uncover insights from the data, like "White veterans are older and have shorter lengths of stay than veterans of color" (no clue if that's true - just an example). The baseline measures displayed in the app are an adaption/expansion of HUD's [System Performance Measures](https://www.hudexchange.info/programs/coc/system-performance-measures/#guidance). The Supportive Housing Division collaborated to workshop and tailor these measures to be more relevant to the goals of our CoC.
 
 ## Data
 
