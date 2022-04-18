@@ -14,11 +14,8 @@ education:
     year: 2023
 email: ""
 interests:
-  - Data curation
-  - Critical data literacy
+  - Data literacy & instruction
   - Research data management
-  - Digital preservation
-  - Metadata design
   - Digital humanities
   - Data cleaning and visualization
 
@@ -39,5 +36,5 @@ social:
 superuser: true
 ---
 
-I'm an aspiring data librarian currently pursuing my MLIS at Pratt Institute.  My prior career as a data analyst in local government grounds my critical approach to data management and use, which challenges the power dynamic between the researcher and the researched in processes of data curation, transformation, and preservation. I aim to support a public of empowered data explorers, creators, and destroyers, and bust the myth that data is an objective source of truth.
+I'm a data practicioner currently pursuing my MLIS at Pratt Institute.  My prior career as a data analyst in local government grounds my critical approach to data management and use, which challenges the power dynamic between the researcher and the researched in processes of data curation, transformation, and preservation. I aim to support a public of empowered data explorers, creators, and destroyers, and bust the myth that data is an objective source of truth.
 
