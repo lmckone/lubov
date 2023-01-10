@@ -17,8 +17,6 @@ links:
   url: https://nhsdc.org/conference_season/2021-spring-conference/
 - name: Slides
   url: https://nhsdc.org/wp-content/uploads/2021/04/412_4-NHSDC-Spring-2021-Presentation-Lubov-McKone-Ian-Gendreau-1.pptx
-categories:
-  - Data viz
 tags:
   - Data viz
   - R

@@ -11,7 +11,7 @@ active: true
 weight: 65
 
 title: Projects
-subtitle: 'Some examples of my data transformation and visualization work'
+subtitle: 'Some examples of my work in data analysis and visualization, digital humanities, and collections as data'
 
 content:
   # Page type to display. E.g. project.
