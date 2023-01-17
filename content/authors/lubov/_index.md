@@ -6,7 +6,7 @@ authors:
 
 education:
   courses:
-  - course: BA in Mathematics & Statistics, Minor in Computer Science
+  - course: BA in Mathematics & Statistics, Independent Major in Urban Analytics & Engagement, Minor in Computer Science
     institution: Boston University
     year: 2018
   - course: MS in Library and Information Science
