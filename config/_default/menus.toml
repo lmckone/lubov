@@ -19,10 +19,10 @@
   url = "/talk/"
   weight = 20
   
-#[[main]]
-#  name = "graduate portfolio"
-#  url = "/portfolio/"
-#  weight = 30
+[[main]]
+  name = "graduate portfolio"
+  url = "/portfolio/"
+  weight = 30
 
 #[[main]]
 #  name = "contact"
