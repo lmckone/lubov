@@ -12,6 +12,7 @@ links:
   url: https://docs.google.com/document/d/1-BOMEtqQqxAnMMSYPsLCWZM_voXe_EwEBH64RIPgXSI/edit?usp=sharing
 - name: Slides
   url: https://www.canva.com/design/DAFSDRUtbIM/U315obJb0afBGGLioEtoqg/edit?utm_content=DAFSDRUtbIM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+summary: This is a plan for a workshop that provides an overview of data documentation and provides hands-on experience creating data dictionaries to graduate student researchers at a large university.
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
@@ -20,7 +21,7 @@ tags:
 title: "Data Dictionaries 101: Tell the Story of your Data"
 ---
 
-This is a plan for a workshop that provides an overview of data documentation and provides hands-on experience creating data dictionaries to graduate student researchers at a large university
+This is a plan for a workshop that provides an overview of data documentation and provides hands-on experience creating data dictionaries to graduate student researchers at a large university.
 
 #### Methods
 
