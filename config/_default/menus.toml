@@ -14,10 +14,11 @@
   url = "#projects"
   weight = 20
   
-[[main]]
-  name = "talks"
-  url = "/talk/"
-  weight = 20
+
+#[[main]]
+#name = "talks"
+#  url = "/talk/"
+#  weight = 20
   
 [[main]]
   name = "graduate portfolio"
