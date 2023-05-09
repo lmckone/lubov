@@ -27,20 +27,20 @@ The data used for this evaluation was sourced by querying the [Socrata Discovery
 
 Most of the datasets on NYCOpenData fall into the education category
 
-![](category_pie.pdf)
+![](category_pie.png)
 
 The datasets in the education category are also the least well-described - on average, datasets in the edcuation category have only 1% of their variables described in the human-readable metadata. This means it might be difficult for users of the data portal to contextualize these datasets, or understand how they were collected and how they should and shouldn't be interpreted. 
 
-![](documentation_by_category.pdf)
+![](documentation_by_category.png)
 
 Most of the datasets in the Education category come from the Department of Education, the agency that also drives the low documentation rate of these datasets.
 
-![](education_documentation.pdf)
+![](education_documentation.png)
 
 Most of the DOE's datasets have none of their variables described in the portal.
 
-![](DOE_distribution.pdf)
+![](DOE_distribution.png)
 
 Finally, there is no correlation between how well-documented a dataset is and the number of times it gets downloaded. It seems that users don't necessarily prefer to work with datasets that are well described, even though variable descriptions provide important context for working with data. 
 
-![](downloads_documentation_corr.pdf)
+![](downloads_documentation_corr.png)
